@@ -618,6 +618,12 @@
             "value": "HTTP"
           }
         },
+        "ryn_enable_landing_page": {
+          "defaultValue": {
+            "value": "true"
+          },
+          "description": "tag"
+        },
         "kanda_mrugam_vaal": {
           "defaultValue": {
             "value": "wZ1xl+/YYtwR9PdRs5CBSw=="
@@ -828,7 +834,7 @@
         "karupp_chattam_v2": {
           "defaultValue": {
             "value": "http"
-          } 
+          }
         },
         "karupp_ver_v2": {
           "defaultValue": {
