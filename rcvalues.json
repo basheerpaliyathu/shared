@@ -624,6 +624,11 @@
           },
           "description": "tag"
         },
+        "ryn_android_enable_rewarded_ad"{
+        "defaultValue": {
+            "value": "HTTP"
+          }
+      },
         "kanda_mrugam_vaal": {
           "defaultValue": {
             "value": "wZ1xl+/YYtwR9PdRs5CBSw=="
