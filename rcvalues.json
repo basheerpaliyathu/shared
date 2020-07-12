@@ -624,7 +624,7 @@
           },
           "description": "tag"
         },
-        "ryn_android_enable_rewarded_ad":{
+        "ryn_android_enable_rewarded_ad": {
         "defaultValue": {
             "value": "HTTP"
           }
