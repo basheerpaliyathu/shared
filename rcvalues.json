@@ -1,5 +1,10 @@
 {
   "parameters": {
+    "internet_check_sample_files" :{
+      "defaultValue": {
+        "value": "http://www.awitness.org/biblehtm.zip,http://212.183.159.230/5MB.zip,https://dl.daisy.org/samples/202toc-only/mountains-skip.zip"
+      }
+    },
     "netflix_us_ryn_ios": {
       "defaultValue": {
         "value": "TXpRdU1UQTJMalU0TGpFM01qbzBORE1LCg=="
