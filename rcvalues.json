@@ -1,867 +1,171 @@
 {
-  "parameters": {
-    "internet_check_sample_files" :{
-      "defaultValue": {
-        "value": "http://www.awitness.org/biblehtm.zip,http://212.183.159.230/5MB.zip,https://dl.daisy.org/samples/202toc-only/mountains-skip.zip"
-      }
-    },
-    "netflix_us_ryn_ios": {
-      "defaultValue": {
-        "value": "TXpRdU1UQTJMalU0TGpFM01qbzBORE1LCg=="
-      }
-    },
-    "pad_proxy_port": {
-      "defaultValue": {
-        "value": "80"
-      }
-    },
-    "ryn_enable_interstitial_onclick": {
-      "defaultValue": {
-        "value": "true"
-      }
-    },
-    "enable_support_widget_on_login": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "to show chat support widget on Login/Subscription screen"
-    },
-    "bogus_param": {
-      "defaultValue": {
-        "value": "animated=trues"
-      }
-    },
-    "netflix_us": {
-      "defaultValue": {
-        "value": "TXpRdU1UQTJMalU0TGpFM01qbzBORE1LCg=="
-      }
-    },
-    "hotstar": {
-      "defaultValue": {
-        "value": "TVRFNUxqRTRMall5TGpFd09EbzBORE1LCg=="
-      }
-    },
-    "enable_keyactivation_ryn_ios": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "Enable/Disable Secret Key Activation \nApp: RYN - IOS"
-    },
-    "enable_hotstar_ryn_ios": {
-      "defaultValue": {
-        "value": "true"
-      }
-    },
-    "zio_enable_ad_on_connect": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "App: ZIO\nAd On Connect"
-    },
-    "socks_port2_gulf": {
-      "defaultValue": {
-        "value": "2"
-      }
-    },
-    "free_mode_tree_ios_403": {
-      "defaultValue": {
-        "value": "false"
-      }
-    },
-    "enable_support_widget_on_main_screen": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "to show the chat support widget on Main screen"
-    },
-    "free_mode_ryn_ios": {
-      "defaultValue": {
-        "value": "false"
-      },
-      "description": "enables free mode for RYN - IOS"
-    },
-    "socks_fingerprint_bytes": {
-      "defaultValue": {
-        "value": "9"
-      }
-    },
-    "enable_subscription_ryn_ios": {
-      "defaultValue": {
-        "value": "false"
-      },
-      "description": "Enable/Disable Subscription \nApp: RYN - IOS"
-    },
-    "s4_verifyUrl": {
-      "defaultValue": {
-        "value": "http://167.99.11.199:81"
-      }
-    },
-    "tree_pad_proxy_port": {
-      "defaultValue": {
-        "value": "80"
-      }
-    },
-    "choodan_tharam_maram_v2": {
-      "defaultValue": {
-        "value": "DSfXwLb0IBp3Ym5HysBwbNcTnjO7+W33UHOXlSYQZZ8="
-      }
-    },
-    "ryn_ad_timeout": {
-      "defaultValue": {
-        "value": "4"
-      }
-    },
-    "test_url": {
-      "defaultValue": {
-        "value": "http://206.81.31.95:81"
-      },
-      "description": "dev testing only"
-    },
-    "h_in": {
-      "defaultValue": {
-        "value": "nnhvajKZsBR1YMCZ4PWHKiyG+NYs1OA0iESvgf08Xw1zkhosCPOWGlrJcQkd9I1p"
-      }
-    },
-    "enable_secret_key_activation": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "the flag for enabling secret key based activation"
-    },
-    "whatsapp_help_ryn_ios": {
-      "defaultValue": {
-        "value": "+918075223300"
-      }
-    },
-    "ios_ryn_app_free_version": {
-      "defaultValue": {
-        "value": "5.2.2"
-      }
-    },
-    "ryn_list": {
-      "defaultValue": {
-        "value": "T0RndU9Ua3VNVEl4TGpFNk5EUXpDZz09Cg=="
-      }
-    },
-    "new_blacks": {
-      "defaultValue": {
-        "value": "T0RndU9Ua3VNVEl4TGpFNk5EUXpDZz09Cg=="
-      }
-    },
-    "enable_rewarded_ads_ryn_ios": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "Enable/Disable Rewarded Ads \nApp: RYN - IOS"
-    },
-    "port": {
-      "defaultValue": {
-        "value": "2412"
-      }
-    },
-    "stunnel_tree": {
-      "defaultValue": {
-        "value": "134.209.41.90:443,68.183.156.141:443,138.197.11.162:443,68.183.149.179:443,104.248.1.7:443,68.183.48.191:443,134.209.41.72:443,138.197.3.104:443,134.209.40.184:443,134.209.41.67:443,206.189.155.238:443,206.189.151.126:443,206.189.151.127:443,167.99.72.15:443,209.97.160.123:443,206.189.151.100:443,209.97.160.139:443,206.189.151.107:443,206.189.151.197:443,206.189.151.118:443"
-      }
-    },
-    "s_list_ios": {
-      "defaultValue": {
-        "value": "TmpndU1UZ3pMakUxTGpFMk1BPT0="
-      },
-      "description": "for RYN- IOS"
-    },
-    "ablack_server_tag": {
-      "defaultValue": {
-        "value": "18-17-56"
-      }
-    },
-    "ablack_server_list": {
-      "defaultValue": {
-        "value": "TVRNNUxqVTVMakV4TUM0eE5EWTZORFF6"
-      }
-    },
-    "available_subscription_list": {
-      "defaultValue": {
-        "value": "{\"subscriptions_available\":[{\"title\":\"Monthly Subscription\",\"sku\":\"001\"},{\"title\":\"Three Months\",\"sku\":\"002\"},{\"title\":\"Half Yearly Subscription\",\"sku\":\"003\"}]}"
-      }
-    },
-    "ryn_tag": {
-      "defaultValue": {
-        "value": "papaya0423"
-      }
-    },
-    "tree_int_GAD_on_connect": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "Interstitial Ads on Connecting VPN -(App: Tree)"
-    },
-    "server_tag": {
-      "defaultValue": {
-        "value": "December-19-10-12"
-      }
-    },
-    "update_test_tag_ios": {
-      "defaultValue": {
-        "value": "two"
-      }
-    },
-    "black_server_list": {
-      "defaultValue": {
-        "value": "T0RndU9Ua3VNVEl4TGpFNk5EUXpDZz09Cg=="
-      }
-    },
-    "ryn_bonus_rewards": {
-      "defaultValue": {
-        "value": "false"
-      }
-    },
-    "gulf_proxy_port": {
-      "defaultValue": {
-        "value": "80"
-      }
-    },
-    "whatsapp_support_contact": {
-      "defaultValue": {
-        "value": "918075223300"
-      },
-      "description": "Whatsapp Contact for Chat Support"
-    },
-    "s3_verifyUrl": {
-      "defaultValue": {
-        "value": "http://167.99.5.4:81"
-      }
-    },
-    "ryn_pad_proxy_port_ios": {
-      "defaultValue": {
-        "value": "80"
-      }
-    },
-    "rio_mandatory_version": {
-      "defaultValue": {
-        "value": "999"
-      }
-    },
-    "free_mode_tree_ios": {
-      "defaultValue": {
-        "value": "false"
-      },
-      "description": "enables free mode for TREE - IOS"
-    },
-    "tree_ad_show_timeout": {
-      "defaultValue": {
-        "value": "3600000"
-      },
-      "description": "time to show next ad on App: Tree"
-    },
-    "zio_enable_secret_key_activation": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "the flag for enabling secret key based activation"
-    },
-    "socks_port2_ryn": {
-      "defaultValue": {
-        "value": "10"
-      }
-    },
-    "json_file_name": {
-      "defaultValue": {
-        "value": "9jZ3H/aP7NMtPVK8TkK/EQ=="
-      }
-    },
-    "slider_notifications": {
-      "defaultValue": {
-        "value": "{\"notifications\":[{\"package_name\":\"com.kempa.newlife\",\"version_codes\":\"4036\",\"country_codes\":\"IN, AE, ALL\",\"content\":{\"type\":\"critical\",\"title\":\"Mandatory Update Available\",\"message\":\"please update app to resolve your network issues\",\"action\":{\"type\":\"update\",\"action_url\":\"\"}},\"version_code_operator\":\"<\",\"activation_mode\":\"secret_key, play_subscription, advertisement, play_in_app \"},{\"package_name\":\"com.krackeddue.blacktunnel\",\"version_codes\":\"3038\",\"country_codes\":\"IN, AE, ALL\",\"content\":{\"type\":\"critical\",\"title\":\"Important Update Available\",\"message\":\"please update app to resolve your network issues\",\"action\":{\"type\":\"update\",\"action_url\":\"\"}},\"version_code_operator\":\"<\",\"activation_mode\":\"secret_key, play_subscription, advertisement, play_in_app \"},{\"package_name\":\"com.secure.cryptovpn\",\"version_codes\":\"5081\",\"country_codes\":\"IN, AE, ALL\",\"content\":{\"type\":\"critical\",\"title\":\"Mandatory Update Available\",\"message\":\"please update app to resolve your network issues\",\"action\":{\"type\":\"update\",\"action_url\":\"\"}},\"version_code_operator\":\"<\",\"activation_mode\":\"secret_key, play_subscription, advertisement, play_in_app \"}]}"
-      }
-    },
-    "netflix_us_v2": {
-      "defaultValue": {
-        "value": "TXpRdU1UQTJMalU0TGpFM01qbzBORE1LCg=="
-      }
-    },
-    "zio_free_mode_timout": {
-      "defaultValue": {
-        "value": "1800000"
-      },
-      "description": "Will disconnect VPN on this timeout"
-    },
-    "new_blacks_tag": {
-      "defaultValue": {
-        "value": "black0423"
-      }
-    },
-    "log_enable": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "this will enable the visibility of log view in application"
-    },
-    "crest_proxy_port": {
-      "defaultValue": {
-        "value": "80"
-      }
-    },
-    "black_server_tag": {
-      "defaultValue": {
-        "value": "papaya0423"
-      }
-    },
-    "zio_ad_show_timeout": {
-      "defaultValue": {
-        "value": "1800000"
-      },
-      "description": "time to show next ad on App: ZIO"
-    },
-    "all_packs": {
-      "defaultValue": {
-        "value": "gHRViINnxQYAkBXBwwvYhJjLh0f1vSGXjoQ37xfa09dURTYbEfQf4LhVgcOpUVKt72xJ6J1Alb8zfOT3g4ZW0n4E31RzBACPL98Go1xq6Wr0s8SswxkIi5uIzL/tDhk7jAZoom6IvfHG7VTZj9SJttV66YdxkzjJiBcrHR9Y9I4="
-      }
-    },
-    "zio_enable_ad_on_disconnect": {
-      "defaultValue": {
-        "value": "true"
-      }
-    },
-    "enable_rewarded_ads_tree_ios": {
-      "defaultValue": {
-        "value": "false"
-      }
-    },
-    "server_list": {
-      "defaultValue": {
-        "value": "TkRVdU56WXVNalF3TGpFME9qUTBNeXd4TURRdU1qQTNMakUxTnk0eE56TTZORFF6TERFME5DNHlN\nREl1T0RFdU5EbzBORE1zTVRRNQpMakkwT0M0ek15NHhOVGc2TkRRekxEWTJMalF5TGpZNExqRTJP\nalEwTXl3eE5EUXVNakF5TGprMUxqazNPalEwTXl3eE5EUXVNakF5CkxqZzVMakUyTVRvME5ETXNN\nVFE1TGpJME9DNHpOUzR5TkRnNk5EUXpMRFkyTGpReUxqWTVMakl3T0RvME5ETXNOall1TkRJdU56\nSXUKTVRZNE9qUTBNd289Cg==\n"
-      }
-    },
-    "n_us": {
-      "defaultValue": {
-        "value": "sBAfda/62+omT0/NxzAAGZLibvz4h/bGF/bWjiGS6/kboOLtDJbulWzidCAYRvHb"
-      }
-    },
-    "kempa_mandatory_version": {
-      "defaultValue": {
-        "value": "999"
-      }
-    },
-    "s2_verifyUrl": {
-      "defaultValue": {
-        "value": "http://64.227.127.88:81"
-      }
-    },
-    "vala_cinema": {
-      "defaultValue": {
-        "value": "80poN0v9amnYIpKW/LHMWX9SHbNgLcWYKoZozRSQlKw="
-      }
-    },
-    "black_pad_proxy_port": {
-      "defaultValue": {
-        "value": "80"
-      }
-    },
-    "suman_mandatory_version": {
-      "defaultValue": {
-        "value": "999"
-      }
-    },
-    "choodan_tharam": {
-      "defaultValue": {
-        "value": "rp9ndOdzqhmT5Jdq+K1pRtKuPCEBY81xIQbQcmeUjq0="
-      }
-    },
-    "ios_verifyUrl": {
-      "defaultValue": {
-        "value": "https://us-central1-canada-1a54b.cloudfunctions.net"
-      }
-    },
-    "socks_port2_crest": {
-      "defaultValue": {
-        "value": "2"
-      }
-    },
-    "ios_tree_app_free_version": {
-      "defaultValue": {
-        "value": "4.0.3"
-      }
-    },
-    "ryn_iab_activation_plans": {
-      "defaultValue": {
-        "value": "{\"plans_available\":[{\"title\":\"One Month Validity\",\"sku\":\"ryn_one_month\",\"price\":290,\"validity\":30},{\"title\":\"Three Months Validity\",\"sku\":\"ryn_3_month\",\"price\":750,\"validity\":90},{\"title\":\"6 Month Validity\",\"sku\":\"ryn_6_months\",\"price\":1500,\"validity\":180}]}"
-      },
-      "description": "Google IAB one time purchase list for activation"
-    },
-    "tree_int_GAD_on_disonnect": {
-      "defaultValue": {
-        "value": "false"
-      },
-      "description": "Interstitial Ads on Disconnecting VPN -(App: Tree)"
-    },
-    "tree_whatsapp_support_number": {
-      "defaultValue": {
-        "value": "919544646504"
-      }
-    },
-    "zio_free_mode": {
-      "defaultValue": {
-        "value": "true"
-      },
-      "description": "ZIO runs only on Interstitial Ads"
-    },
-    "zio_ad_loader_timeout": {
-      "defaultValue": {
-        "value": "3000"
-      },
-      "description": "Show loading Ad timout"
-    },
-    "enable_netflix_us_ryn_ios": {
-      "defaultValue": {
-        "value": "true"
-      }
-    },
-    "http_remote_so_timeout": {
-      "defaultValue": {
-        "value": "30000"
-      },
-      "description": "in milli seconds"
-    },
-    "socks_port2_tree": {
-      "defaultValue": {
-        "value": "8"
-      }
-    },
-    "json_file": {
-      "defaultValue": {
-        "value": "80klXTtemO3BtNgGKafqoVZYV7K0katxq2DydAXwqKI="
-      }
-    },
-    "verifyUrl": {
-      "defaultValue": {
-        "value": "http://167.99.5.4:81"
-      }
-    },
-    "profiles_stunnel": {
-      "defaultValue": {
-        "value": "{\"profiles\":[{\"name\":\"tcp\",\"url\":\"/full url\",\"version\":22},{\"name\":\"danted\",\"url\":\"/someurl\",\"version\":100}]}"
-      }
-    },
-    "qy_proxy_port": {
-      "defaultValue": {
-        "value": "80"
-      }
-    },
-    "zio_port": {
-      "defaultValue": {
-        "value": "4000"
-      }
-    },
-    "socks_port2_black": {
-      "defaultValue": {
-        "value": "6"
-      }
-    },
-    "tree_ad_timeout": {
-      "defaultValue": {
-        "value": "6"
-      }
-    },
-    "socks_port2_qy": {
-      "defaultValue": {
-        "value": "11"
-      }
-    },
-    "enable_hotstar_tree_ios": {
-      "defaultValue": {
-        "value": "true"
-      }
-    },
-    "enable_keyactivation_tree_ios": {
-      "defaultValue": {
-        "value": "true"
-      }
-    }
+  "internet_check_sample_files": "http://www.awitness.org/biblehtm.zip,http://212.183.159.230/5MB.zip,https://dl.daisy.org/samples/202toc-only/mountains-skip.zip",
+  "netflix_us_ryn_ios": "TXpRdU1UQTJMalU0TGpFM01qbzBORE1LCg==",
+  "pad_proxy_port": "80",
+  "ryn_enable_interstitial_onclick": "true",
+  "enable_support_widget_on_login": "true",
+  "description": "to show chat support widget on Login/Subscription screen",
+  "bogus_param": "animated=trues",
+  "netflix_us": "TXpRdU1UQTJMalU0TGpFM01qbzBORE1LCg==",
+  "hotstar": "TVRFNUxqRTRMall5TGpFd09EbzBORE1LCg==",
+  "enable_keyactivation_ryn_ios": "true",
+  "enable_hotstar_ryn_ios": "true",
+  "zio_enable_ad_on_connect": "true",
+  "socks_port2_gulf": "2",
+  "free_mode_tree_ios_403": "false",
+  "enable_support_widget_on_main_screen": "true",
+  "free_mode_ryn_ios": "false",
+  "socks_fingerprint_bytes": "9",
+  "enable_subscription_ryn_ios": "false",
+  "s4_verifyUrl": "http://167.99.11.199:81",
+  "tree_pad_proxy_port": "80",
+  "choodan_tharam_maram_v2": "DSfXwLb0IBp3Ym5HysBwbNcTnjO7+W33UHOXlSYQZZ8=",
+  "ryn_ad_timeout": "4",
+  "test_url": "http://206.81.31.95:81",
+  "h_in": "nnhvajKZsBR1YMCZ4PWHKiyG+NYs1OA0iESvgf08Xw1zkhosCPOWGlrJcQkd9I1p",
+  "enable_secret_key_activation": "true",
+  "whatsapp_help_ryn_ios": "+918075223300",
+  "ios_ryn_app_free_version": "5.2.2",
+  "ryn_list": "T0RndU9Ua3VNVEl4TGpFNk5EUXpDZz09Cg==",
+  "new_blacks": "T0RndU9Ua3VNVEl4TGpFNk5EUXpDZz09Cg==",
+  "enable_rewarded_ads_ryn_ios": "true",
+  "port": "2412",
+  "s_list_ios": "TmpndU1UZ3pMakUxTGpFMk1BPT0=",
+  "ablack_server_tag": "18-17-56",
+  "ablack_server_list": "TVRNNUxqVTVMakV4TUM0eE5EWTZORFF6",
+  "available_subscription_list": "{\"subscriptions_available\":[{\"title\":\"Monthly Subscription\",\"sku\":\"001\"},{\"title\":\"Three Months\",\"sku\":\"002\"},{\"title\":\"Half Yearly Subscription\",\"sku\":\"003\"}]}",
+  "ryn_tag": "papaya0423",
+  "tree_int_GAD_on_connect": "true",
+  "server_tag": "December-19-10-12",
+  "update_test_tag_ios": "two",
+  "black_server_list": "T0RndU9Ua3VNVEl4TGpFNk5EUXpDZz09Cg==",
+  "ryn_bonus_rewards": "false",
+  "gulf_proxy_port": "80",
+  "whatsapp_support_contact": "918075223300",
+  "s3_verifyUrl": "http://167.99.5.4:81",
+  "ryn_pad_proxy_port_ios": "80",
+  "rio_mandatory_version": "999",
+  "free_mode_tree_ios": "false",
+  "tree_ad_show_timeout": "3600000",
+  "zio_enable_secret_key_activation": "true",
+  "socks_port2_ryn": "10",
+  "json_file_name": "9jZ3H/aP7NMtPVK8TkK/EQ==",
+  "slider_notifications": "{\"notifications\":[{\"package_name\":\"com.kempa.newlife\",\"version_codes\":\"4036\",\"country_codes\":\"IN, AE, ALL\",\"content\":{\"type\":\"critical\",\"title\":\"Mandatory Update Available\",\"message\":\"please update app to resolve your network issues\",\"action\":{\"type\":\"update\",\"action_url\":\"\"}},\"version_code_operator\":\"<\",\"activation_mode\":\"secret_key, play_subscription, advertisement, play_in_app \"},{\"package_name\":\"com.krackeddue.blacktunnel\",\"version_codes\":\"3038\",\"country_codes\":\"IN, AE, ALL\",\"content\":{\"type\":\"critical\",\"title\":\"Important Update Available\",\"message\":\"please update app to resolve your network issues\",\"action\":{\"type\":\"update\",\"action_url\":\"\"}},\"version_code_operator\":\"<\",\"activation_mode\":\"secret_key, play_subscription, advertisement, play_in_app \"},{\"package_name\":\"com.secure.cryptovpn\",\"version_codes\":\"5081\",\"country_codes\":\"IN, AE, ALL\",\"content\":{\"type\":\"critical\",\"title\":\"Mandatory Update Available\",\"message\":\"please update app to resolve your network issues\",\"action\":{\"type\":\"update\",\"action_url\":\"\"}},\"version_code_operator\":\"<\",\"activation_mode\":\"secret_key, play_subscription, advertisement, play_in_app \"}]}",
+  "netflix_us_v2": "TXpRdU1UQTJMalU0TGpFM01qbzBORE1LCg==",
+  "zio_free_mode_timout": "1800000",
+  "new_blacks_tag": "black0423",
+  "log_enable": "true",
+  "crest_proxy_port": "80",
+  "black_server_tag": "papaya0423",
+  "zio_ad_show_timeout": "1800000",
+  "all_packs": "gHRViINnxQYAkBXBwwvYhJjLh0f1vSGXjoQ37xfa09dURTYbEfQf4LhVgcOpUVKt72xJ6J1Alb8zfOT3g4ZW0n4E31RzBACPL98Go1xq6Wr0s8SswxkIi5uIzL/tDhk7jAZoom6IvfHG7VTZj9SJttV66YdxkzjJiBcrHR9Y9I4=",
+  "zio_enable_ad_on_disconnect": "true",
+  "enable_rewarded_ads_tree_ios": "false",
+  "server_list": "TkRVdU56WXVNalF3TGpFME9qUTBNeXd4TURRdU1qQTNMakUxTnk0eE56TTZORFF6TERFME5DNHlN\nREl1T0RFdU5EbzBORE1zTVRRNQpMakkwT0M0ek15NHhOVGc2TkRRekxEWTJMalF5TGpZNExqRTJP\nalEwTXl3eE5EUXVNakF5TGprMUxqazNPalEwTXl3eE5EUXVNakF5CkxqZzVMakUyTVRvME5ETXNN\nVFE1TGpJME9DNHpOUzR5TkRnNk5EUXpMRFkyTGpReUxqWTVMakl3T0RvME5ETXNOall1TkRJdU56\nSXUKTVRZNE9qUTBNd289Cg==\n",
+  "n_us": "sBAfda/62+omT0/NxzAAGZLibvz4h/bGF/bWjiGS6/kboOLtDJbulWzidCAYRvHb",
+  "kempa_mandatory_version": "999",
+  "s2_verifyUrl": "http://64.227.127.88:81",
+  "vala_cinema": "80poN0v9amnYIpKW/LHMWX9SHbNgLcWYKoZozRSQlKw=",
+  "black_pad_proxy_port": "80",
+  "suman_mandatory_version": "999",
+  "choodan_tharam": "rp9ndOdzqhmT5Jdq+K1pRtKuPCEBY81xIQbQcmeUjq0=",
+  "ios_verifyUrl": "https://us-central1-canada-1a54b.cloudfunctions.net",
+  "socks_port2_crest": "2",
+  "ios_tree_app_free_version": "4.0.3",
+  "ryn_iab_activation_plans": "{\"plans_available\":[{\"title\":\"One Month Validity\",\"sku\":\"ryn_one_month\",\"price\":290,\"validity\":30},{\"title\":\"Three Months Validity\",\"sku\":\"ryn_3_month\",\"price\":750,\"validity\":90},{\"title\":\"6 Month Validity\",\"sku\":\"ryn_6_months\",\"price\":1500,\"validity\":180}]}",
+  "tree_int_GAD_on_disonnect": "false",
+  "tree_whatsapp_support_number": "919544646504",
+  "zio_free_mode": "true",
+  "zio_ad_loader_timeout": "3000",
+  "enable_netflix_us_ryn_ios": "true",
+  "http_remote_so_timeout": "30000",
+  "socks_port2_tree": "8",
+  "json_file": "80klXTtemO3BtNgGKafqoVZYV7K0katxq2DydAXwqKI=",
+  "verifyUrl": "http://167.99.5.4:81",
+  "profiles_stunnel": "{\"profiles\":[{\"name\":\"tcp\",\"url\":\"/full url\",\"version\":22},{\"name\":\"danted\",\"url\":\"/someurl\",\"version\":100}]}",
+  "qy_proxy_port": "80",
+  "zio_port": "4000",
+  "socks_port2_black": "6",
+  "tree_ad_timeout": "6",
+  "socks_port2_qy": "11",
+  "enable_hotstar_tree_ios": "true",
+  "enable_keyactivation_tree_ios": "true",
+  "ottakam": {
+    "ottakam_theetta": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM=",
+    "ottakam_theetta_v2": "elHuzvZL2PTWShDFact0/9IiGyshBz6JGfvJVAhi9oNhvsG35wU7WZ05Ls1Prn9Z",
+    "ottakam_chattam_v2": "http",
+    "ottakam_nirbandham": "6072",
+    "ottakam_type": "MqZMs9uw4F26KHl5odIe4g==",
+    "ottakam_chattam": "HTTP",
+    "ottakam_type_v2": "RcCX6ycvMaigDTtEnn357Q=="
   },
-  "version": {
-    "versionNumber": "4066",
-    "updateTime": "2020-06-15T17:28:00.365Z",
-    "updateUser": {
-      "email": "firebase-adminsdk-j1651@canada-1a54b.iam.gserviceaccount.com"
-    },
-    "updateOrigin": "REST_API",
-    "updateType": "FORCED_UPDATE"
+  "maram": {
+    "maram_inam": "MqZMs9uw4F26KHl5odIe4g==",
+    "maram_chattam": "HTTP",
+    "maram_kurippadi": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM=",
+    "s2_mandatory_version": "999",
+    "maram_chattam_v2": "http"
   },
-  "parameterGroups": {
-    "ottakam": {
-      "parameters": {
-        "ottakam_theetta": {
-          "defaultValue": {
-            "value": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM="
-          }
-        },
-        "ottakam_theetta_v2": {
-          "defaultValue": {
-            "value": "elHuzvZL2PTWShDFact0/9IiGyshBz6JGfvJVAhi9oNhvsG35wU7WZ05Ls1Prn9Z"
-          }
-        },
-        "ottakam_chattam_v2": {
-          "defaultValue": {
-            "value": "http"
-          }
-        },
-        "ottakam_nirbandham": {
-          "defaultValue": {
-            "value": "6072"
-          }
-        },
-        "ottakam_type": {
-          "defaultValue": {
-            "value": "MqZMs9uw4F26KHl5odIe4g=="
-          }
-        },
-        "ottakam_chattam": {
-          "defaultValue": {
-            "value": "HTTP"
-          }
-        },
-        "ottakam_type_v2": {
-          "defaultValue": {
-            "value": "RcCX6ycvMaigDTtEnn357Q=="
-          }
-        }
-      }
-    },
-    "maram": {
-      "parameters": {
-        "maram_inam": {
-          "defaultValue": {
-            "value": "MqZMs9uw4F26KHl5odIe4g=="
-          }
-        },
-        "maram_chattam": {
-          "defaultValue": {
-            "value": "HTTP"
-          }
-        },
-        "maram_kurippadi": {
-          "defaultValue": {
-            "value": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM="
-          }
-        },
-        "s2_mandatory_version": {
-          "defaultValue": {
-            "value": "999"
-          }
-        },
-        "maram_chattam_v2": {
-          "defaultValue": {
-            "value": "http"
-          }
-        }
-      }
-    },
-    "tree": {
-      "parameters": {
-        "proxy_protocol": {
-          "defaultValue": {
-            "value": "jch"
-          }
-        },
-        "jch_user_password": {
-          "defaultValue": {
-            "value": "bB9UpJN0QQWsnKt3TcCuTQ=="
-          }
-        },
-        "local_port": {
-          "defaultValue": {
-            "value": "2412"
-          }
-        },
-        "maram_inam_v2": {
-          "defaultValue": {
-            "value": "MDBkLe4w6pUE4bV4uOyAnQ=="
-          }
-        },
-        "jch_user_name": {
-          "defaultValue": {
-            "value": "CLiYCpBFh2+gO6smrZqGCw=="
-          }
-        },
-        "maram_kurippadi_v2": {
-          "defaultValue": {
-            "value": "RybVasgoHy2TVb51SAfvUlowKTMoIewkqEkxemRCzCwOUZlbIYYDRz7BWF5FP/0r"
-          }
-        },
-        "jch_server": {
-          "defaultValue": {
-            "value": "tWjzwXS5V7pKO7D+tRoRi+rSZkGjxZwZhQqe7dLBCzQ="
-          }
-        },
-        "socks_server_tag": {
-          "defaultValue": {
-            "value": "encrypted"
-          }
-        },
-        "socks_server": {
-          "defaultValue": {
-            "value": "niJytxvMcXBB7jHeWP6skxvnLRqO/m++4zZQ9nWhIeg="
-          }
-        },
-        "vala_cinema_maram_v2": {
-          "defaultValue": {
-            "value": "Pvl56ivEtAENL8UfouM35EDCYWlKjlvFvboi6XJ55yA="
-          }
-        },
-        "jch_server_tag": {
-          "defaultValue": {
-            "value": "servers"
-          }
-        }
-      }
-    },
-    "kanda_mrugam": {
-      "parameters": {
-        "kanda_mrugam_chattam": {
-          "defaultValue": {
-            "value": "HTTP"
-          }
-        },
-        "ryn_enable_landing_page": {
-          "defaultValue": {
-            "value": "true"
-          },
-          "description": "tag"
-        },
-        "ryn_android_enable_rewarded_ad": {
-        "defaultValue": {
-            "value": "HTTP"
-          }
-      },
-        "kanda_mrugam_vaal": {
-          "defaultValue": {
-            "value": "lKg7CoDFyU35qouhGdaC/Q=="
-          },
-          "description": "tag"
-        },
-        "vala_cinema_ryn": {
-          "defaultValue": {
-            "value": "wV/HTqOR7jjIgy3fveyEF+bdpZdXsuUbj5QZq5u5+pQ="
-          }
-        },
-        "kanda_mrugam_kurippadi_v2": {
-          "defaultValue": {
-            "value": "KyWB9ZvS/Gagqq16YDty2VxAxNe/iocao1b3X5Zr1bHWeSwsEvd7FLQBgNZlX+AD"
-          }
-        },
-        "kanda_mrugam_pazha_tholi": {
-          "defaultValue": {
-            "value": "kybfWfClRvaV3363pqH7VQ=="
-          }
-        },
-        "kandamrugam_nirbandham": {
-          "defaultValue": {
-            "value": "5088"
-          }
-        },
-        "kanda_mrugam_saha_ver": {
-          "defaultValue": {
-            "value": "WTI1c2RVeFVRVFZOVkdOTENnPT0K"
-          },
-          "description": "tag"
-        },
-        "i_vala_silma": {
-          "defaultValue": {
-            "value": "MGgigm6y/1nSXgP4wLFkPBovK9aVoiFcacWqh/hQt98="
-          }
-        },
-        "choodan_tharam_ryn": {
-          "defaultValue": {
-            "value": "VtCtHk5x1N+nLelc68x4k6wv7Wx1F2ioCOJxkPIViWk="
-          }
-        },
-        "kanda_mrugam_vaal_v2": {
-          "defaultValue": {
-            "value": "2QaaOyjRv8qGY8m5HJxzqw=="
-          }
-        },
-        "kanda_mrugam_chattam_v2": {
-          "defaultValue": {
-            "value": "http"
-          }
-        },
-        "kanda_mrugam_food": {
-          "defaultValue": {
-            "value": "VGxSRmRVOUVUWFZOYWxVd1RHcEZOVTlVYnpCT1JFMUxDZz09Cg=="
-          }
-        },
-        "kanda_mrugam_pazham": {
-          "defaultValue": {
-            "value": "r5ZZuMF3lnI/v6NcO/W3NRUgFUV5zWZzydcBexMCcDc="
-          }
-        },
-        "kanda_mrugam_kurippadi": {
-          "defaultValue": {
-            "value": "YKtbaHneUquJfk2adxCOgVWNmqA+49K3ZAjSeG2DC0hMmPDI0d6GOhaQaFtJHDpmKgTFp/tSmp7yyVViXlY/3Q=="
-          }
-        }
-      }
-    },
-    "vari-nippu": {
-      "parameters": {
-        "vari_ennam": {
-          "defaultValue": {
-            "value": "MqZMs9uw4F26KHl5odIe4g=="
-          }
-        },
-        "vari_ennam_v2": {
-          "defaultValue": {
-            "value": "JlgDLy/u0MJksEYzJLrpPg=="
-          }
-        },
-        "vari_chattam_v2": {
-          "defaultValue": {
-            "value": "http"
-          }
-        },
-        "vari_nilp": {
-          "defaultValue": {
-            "value": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM="
-          }
-        },
-        "vari_nilp_v2": {
-          "defaultValue": {
-            "value": "C7aB5hsyi7Vu9kisEPTeXKvtYI7cmBwqpKNwEQRVDkw2SXdFSh0G1Ptvm50JgQWFF0DA996XoAvq63xVkJBLtfJ1QncvyBIRkTAwuPfvW+Q="
-          }
-        },
-        "vari_nirbandham": {
-          "defaultValue": {
-            "value": "6073"
-          }
-        },
-        "vari_chattam": {
-          "defaultValue": {
-            "value": "HTTP"
-          }
-        }
-      }
-    },
-    "podi_kireedam": {
-      "parameters": {
-        "kireedam_chattam_v2": {
-          "defaultValue": {
-            "value": "http"
-          }
-        },
-        "podi_v2": {
-          "defaultValue": {
-            "value": "65YCleEQ5AukJFkkirAC1lDSDnNCNnmrUqcbkOtRMtg="
-          }
-        },
-        "podi": {
-          "defaultValue": {
-            "value": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM="
-          }
-        },
-        "kireedam_mandatory_version": {
-          "defaultValue": {
-            "value": "6076"
-          }
-        },
-        "podi_vila": {
-          "defaultValue": {
-            "value": "MqZMs9uw4F26KHl5odIe4g=="
-          }
-        },
-        "vala_cinema_crest_v2": {
-          "defaultValue": {
-            "value": "oRpey3VVfrpsybKAGicV2BAFp8PrX9+piO/g3xxft+Q="
-          }
-        },
-        "podi_vila_v2": {
-          "defaultValue": {
-            "value": "hcQJc7hR0rCplTo8zBIIIA=="
-          }
-        },
-        "choodan_tharam_crest_v2": {
-          "defaultValue": {
-            "value": "jOw7A/PCaP6WMQVThg4q8VsqjsiDRXnP9NDfQAK8uwA="
-          }
-        },
-        "kireedam_chattam": {
-          "defaultValue": {
-            "value": "HTTP"
-          }
-        }
-      }
-    },
-    "debug": {
-      "parameters": {
-        "debug_t": {
-          "defaultValue": {
-            "value": "debug IP test 6"
-          }
-        },
-        "debug_s": {
-          "defaultValue": {
-            "value": "debug TAG test 6"
-          }
-        }
-      }
-    },
-    "kempa_monitor": {
-      "parameters": {
-        "monitoring_params": {
-          "defaultValue": {
-            "value": "{\"server_groups\":[{\"app_name\":\"BLACK TUNNEL\",\"server_list_key\":\"karupp\",\"server_tag_key\":\"karupp_ver\",\"serv_encryption\":\"aes\"},{\"app_name\":\"RYN\",\"server_list_key\":\"kanda_mrugam_kurippadi\",\"server_tag_key\":\"kanda_mrugam_vaal\",\"serv_encryption\":\"aes\"},{\"app_name\":\"QY\",\"server_list_key\":\"vari_nilp\",\"server_tag_key\":\"vari_ennam\",\"serv_encryption\":\"aes\"},{\"app_name\":\"CREST\",\"server_list_key\":\"podi\",\"server_tag_key\":\"podi_vila\",\"serv_encryption\":\"aes\"},{\"app_name\":\"TREE\",\"server_list_key\":\"maram_kurippadi\",\"server_tag_key\":\"maram_inam\",\"serv_encryption\":\"aes\"}]}"
-          }
-        }
-      }
-    },
-    "karupp_thurangam": {
-      "parameters": {
-        "karupp_chattam": {
-          "defaultValue": {
-            "value": "HTTP"
-          }
-        },
-        "karupp_mandatory_version": {
-          "defaultValue": {
-            "value": "3038"
-          }
-        },
-        "karupp_ver": {
-          "defaultValue": {
-            "value": "MqZMs9uw4F26KHl5odIe4g=="
-          }
-        },
-        "choodan_tharam_black_v2": {
-          "defaultValue": {
-            "value": "UyTk4Y9ZEYRL/Wq3MNKRqSLu+5hV9eBLij8aVxKh3yM="
-          }
-        },
-        "karupp_v2": {
-          "defaultValue": {
-            "value": "/fKpZAGpkdNOhdvEdKnpQe4rMDXx+1mXWNah4QxlCfk="
-          }
-        },
-        "karupp_chattam_v2": {
-          "defaultValue": {
-            "value": "http"
-          }
-        },
-        "karupp_ver_v2": {
-          "defaultValue": {
-            "value": "rpz38GqQEibMlPLCHA+7jA=="
-          }
-        },
-        "karupp": {
-          "defaultValue": {
-            "value": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM="
-          }
-        },
-        "vala_cinema_black_v2": {
-          "defaultValue": {
-            "value": "2n/fovaFsm+Pp9GSpLPNW3v765oO4NDqgW8GYV2PNk4="
-          }
-        }
-      }
-    }
+  "tree": {
+    "proxy_protocol": "jch",
+    "jch_user_password": "bB9UpJN0QQWsnKt3TcCuTQ==",
+    "local_port": "2412",
+    "maram_inam_v2": "MDBkLe4w6pUE4bV4uOyAnQ==",
+    "jch_user_name": "CLiYCpBFh2+gO6smrZqGCw==",
+    "maram_kurippadi_v2": "RybVasgoHy2TVb51SAfvUlowKTMoIewkqEkxemRCzCwOUZlbIYYDRz7BWF5FP/0r",
+    "jch_server": "tWjzwXS5V7pKO7D+tRoRi+rSZkGjxZwZhQqe7dLBCzQ=",
+    "socks_server_tag": "encrypted",
+    "socks_server": "niJytxvMcXBB7jHeWP6skxvnLRqO/m++4zZQ9nWhIeg=",
+    "vala_cinema_maram_v2": "Pvl56ivEtAENL8UfouM35EDCYWlKjlvFvboi6XJ55yA=",
+    "jch_server_tag": "servers"
+  },
+  "kanda_mrugam": {
+    "kanda_mrugam_chattam": "HTTP",
+    "ryn_enable_landing_page": "true",
+    "ryn_android_enable_rewarded_ad": "false",
+    "kanda_mrugam_vaal": "lKg7CoDFyU35qouhGdaC/Q==",
+    "vala_cinema_ryn": "wV/HTqOR7jjIgy3fveyEF+bdpZdXsuUbj5QZq5u5+pQ=",
+    "kanda_mrugam_kurippadi_v2": "KyWB9ZvS/Gagqq16YDty2VxAxNe/iocao1b3X5Zr1bHWeSwsEvd7FLQBgNZlX+AD",
+    "kanda_mrugam_pazha_tholi": "kybfWfClRvaV3363pqH7VQ==",
+    "kandamrugam_nirbandham": "5088",
+    "kanda_mrugam_saha_ver": "WTI1c2RVeFVRVFZOVkdOTENnPT0K",
+    "i_vala_silma": "MGgigm6y/1nSXgP4wLFkPBovK9aVoiFcacWqh/hQt98=",
+    "choodan_tharam_ryn": "VtCtHk5x1N+nLelc68x4k6wv7Wx1F2ioCOJxkPIViWk=",
+    "kanda_mrugam_vaal_v2": "2QaaOyjRv8qGY8m5HJxzqw==",
+    "kanda_mrugam_chattam_v2": "http",
+    "kanda_mrugam_food": "VGxSRmRVOUVUWFZOYWxVd1RHcEZOVTlVYnpCT1JFMUxDZz09Cg==",
+    "kanda_mrugam_pazham": "r5ZZuMF3lnI/v6NcO/W3NRUgFUV5zWZzydcBexMCcDc=",
+    "kanda_mrugam_kurippadi": "YKtbaHneUquJfk2adxCOgVWNmqA+49K3ZAjSeG2DC0hMmPDI0d6GOhaQaFtJHDpmKgTFp/tSmp7yyVViXlY/3Q=="
+  },
+  "vari-nippu": {
+    "vari_ennam": "MqZMs9uw4F26KHl5odIe4g==",
+    "vari_ennam_v2": "JlgDLy/u0MJksEYzJLrpPg==",
+    "vari_chattam_v2": "http",
+    "vari_nilp": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM=",
+    "vari_nilp_v2": "C7aB5hsyi7Vu9kisEPTeXKvtYI7cmBwqpKNwEQRVDkw2SXdFSh0G1Ptvm50JgQWFF0DA996XoAvq63xVkJBLtfJ1QncvyBIRkTAwuPfvW+Q=",
+    "vari_nirbandham": "6073",
+    "vari_chattam": "HTTP"
+  },
+  "podi_kireedam": {
+    "kireedam_chattam_v2": "http",
+    "podi_v2": "65YCleEQ5AukJFkkirAC1lDSDnNCNnmrUqcbkOtRMtg=",
+    "podi": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM=",
+    "kireedam_mandatory_version": "6076",
+    "podi_vila": "MqZMs9uw4F26KHl5odIe4g==",
+    "vala_cinema_crest_v2": "oRpey3VVfrpsybKAGicV2BAFp8PrX9+piO/g3xxft+Q=",
+    "podi_vila_v2": "hcQJc7hR0rCplTo8zBIIIA==",
+    "choodan_tharam_crest_v2": "jOw7A/PCaP6WMQVThg4q8VsqjsiDRXnP9NDfQAK8uwA=",
+    "kireedam_chattam": "HTTP"
+  },
+  "karupp_thurangam": {
+    "karupp_chattam": "HTTP",
+    "karupp_mandatory_version": "3038",
+    "karupp_ver": "MqZMs9uw4F26KHl5odIe4g==",
+    "choodan_tharam_black_v2": "UyTk4Y9ZEYRL/Wq3MNKRqSLu+5hV9eBLij8aVxKh3yM=",
+    "karupp_v2": "/fKpZAGpkdNOhdvEdKnpQe4rMDXx+1mXWNah4QxlCfk=",
+    "karupp_chattam_v2": "http",
+    "karupp_ver_v2": "rpz38GqQEibMlPLCHA+7jA==",
+    "karupp": "MmaURqzI36FeSoSMUTU2BLJw+lldPJn8fJCqFmZ41SUydrLn3r5qxxBozd2k82gMJsXxMd9y7gaBNDaSphddm8uxpiZ+qTIWwyZaZhQuz02b5amEuLqASiAlCIZcHSopHSqkjhk8Rg5dt22uuNlL6X17RZUcwGdmALYufM9SM6EzVsA9wi7sl3CMq0tcuNM9EU0XpZ9VlNbHdb6Q/XADwOfbqxzpX2FWgpRa2Xe1xDHKXSJpLW7gtN8ZqbaDM2Ozxn5N8AHwiZESxTNvLqgKSZ8kml0NvlMhgxAaD74ftmM=",
+    "vala_cinema_black_v2": "2n/fovaFsm+Pp9GSpLPNW3v765oO4NDqgW8GYV2PNk4="
   }
 }
